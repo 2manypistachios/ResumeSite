@@ -2,6 +2,7 @@
 title: "Introducing Gatsby Material Starter"
 cover: "/logos/logo-1024.png"
 category: "gatsby"
+slug: "Test"
 tags:
 
     - gatsby
