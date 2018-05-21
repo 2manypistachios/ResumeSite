@@ -10,6 +10,18 @@ body {
     margin: 0;
 }
 
+$md-display-4-font-size: 112px !default;
+$md-display-3-font-size: 56px !default;
+$md-display-2-font-size: 45px !default;
+$md-display-1-font-size: 34px !default;
+$md-headline-font-size: 24px !default;
+$md-title-font-size: 20px !default;
+$md-subheading-desktop-font-size: 15px !default;
+
+$md-card-text-font-size: 18px;
+$md-card-text-font-line-height: 20px;
+$md-body-1-line-height:25px;
+
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700|Material+Icons');
 @import '~react-md/src/scss/react-md';
 @import 'theme.scss';
